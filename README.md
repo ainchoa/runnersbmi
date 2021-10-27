@@ -23,7 +23,6 @@ Well, you read all the way here so you're at least intrigued.
 
 ## How can you use this information?
 
-So, how can you use this information to improve your performance? Click on the Binder badge at the beginning on this blog post to launch a Jupyter notebook where you can input your age, sex, height and the distance you want to train for
-
+So, how can you use this information to improve your performance? Click on the Binder badge below to launch a Jupyter notebook where you can input your age, sex, height and the distance you want to train for and we'll guide you through it:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ainchoa/runnersbmi/main?labpath=blog_notebook_test.ipynb)
