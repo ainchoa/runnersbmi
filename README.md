@@ -27,7 +27,7 @@ Well, you read all the way here so you're at least intrigued. It turns out your 
 
 So, how can you use this information to improve your performance? Click on the Binder badge below to launch a Jupyter notebook where you can input your age, sex, height and the distance you're training for and we'll guide you through it:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ainchoa/runnersbmi/main?labpath=weight_suggestor.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ainchoa/runnersbmi/main?labpath=weight_suggester.ipynb)
 
 
 ## We hope you liked it!
